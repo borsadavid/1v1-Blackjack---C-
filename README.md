@@ -1,6 +1,6 @@
 # 1v1-Blackjack-C++
 
-1.Blackjack vs Computer by default rules.
+1.Blackjack vs Computer by default rules.                                          
 2.Console display :
 
 
