@@ -3,10 +3,10 @@
 1.Blackjack vs Computer by default rules.
 2.Console display :
 
-##########################################
+
 PRESS: 1 - DRAW, 2 - HOLD, 3 - DOUBLE DOWN
 
-Player score: 14
+Player score: 14                        
 4♠ J♦
 
 Opponent score:                   
