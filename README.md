@@ -1,7 +1,7 @@
 # 1v1-Blackjack-C++
 
 1.Blackjack vs Computer by default rules.
-2.Console display : 
+2.Console display :
 
 ##########################################
 PRESS: 1 - DRAW, 2 - HOLD, 3 - DOUBLE DOWN
