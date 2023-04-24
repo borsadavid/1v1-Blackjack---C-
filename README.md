@@ -4,7 +4,7 @@
 2.Console display :
 
 
-PRESS: 1 - DRAW, 2 - HOLD, 3 - DOUBLE DOWN
+PRESS: 1 - DRAW, 2 - HOLD, 3 - DOUBLE DOWN                          9-Cheat??
 
 Player score: 14                        
 4♠ J♦
@@ -22,6 +22,7 @@ Opponent score:
 4. Opponent checks for percentage of winning (in case of a draw, ex: player score = opponent score = 18),
 the computer will decide based on that percentage if to leave tie or draw another one.
 5. Highscore count.
+6. You have the option to cheat and see the percentage of succes before drawing another card.
 
 Rules:  You can bet a sum and if you win you get double back, else you loose it.
 	You can choose to double down and draw a card then hold, doubling your bet.
